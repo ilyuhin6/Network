@@ -14,6 +14,10 @@ Labs Network <br>
 <p>Ссылка для скачивания образа <a href="https://drive.google.com/file/d/1ENE2J-s7kylzUD99wBns05J7LMyXtt49/view?usp=sharing">вот ТУТ!</a></p>
 
 <h2>Обновился образ!</h2>
-<p>Теперь образ содержит MicroTik, Aruba</p>
+<p>Теперь образ содержит железяки</p>
+<ul>
+  <li>MikroTik!</li>
+  <li>Aruba!</li>
+</ul>
 
 ![Alt text](network_Hard.PNG)
