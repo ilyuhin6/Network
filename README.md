@@ -15,5 +15,4 @@ Labs Network <br>
 
 <h2>Обновился образ!</h2>
 <p>Теперь образ содержит MicroTik, Aruba</p>
-<p>Подробности позже!</p>
-
+<img src="http://v92353bl.beget.tech/network_Hard.PNG">
