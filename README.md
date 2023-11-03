@@ -11,9 +11,9 @@ Labs Network <br>
 Все лабы которые есть в этом репозитории построены на этой машине.
 <br>Образ обновляется по мере добавления новых сетевых устройств</p>
 <br>
-<p>Ссылка для скачивания образа <a href="https://raw.githubusercontent.com/ilyuhin6/stepik/main/network_Hard.PNG?token=GHSAT0AAAAAACJG74VBVTHK72QI6AESEKVUZKFEBXQ">вот ТУТ!</a></p>
+<p>Ссылка для скачивания образа <a href="https://drive.google.com/file/d/1ENE2J-s7kylzUD99wBns05J7LMyXtt49/view?usp=sharing">вот ТУТ!</a></p>
 
 <h2>Обновился образ!</h2>
-<p>Теперь ораз содержит MicroTik, Aruba</p>
-<img src="https://ibb.co/VmYSPJB">
+<p>Теперь образ содержит MicroTik, Aruba</p>
+<p>Подробности позже!</p>
 
