@@ -25,5 +25,5 @@ Labs Network <br>
 ![Alt text](network_Hard.PNG)
 
 <br>
-<h3><a href="https://drive.google.com/file/d/1Qg7PT1HGGLLAmNqGXXVqph_YCtz0r4ry/view?usp=sharing">Зебераем и юзаем - сдесь!</a></h3>
+<h3><a href="https://drive.google.com/file/d/1Qg7PT1HGGLLAmNqGXXVqph_YCtz0r4ry/view?usp=sharing">Зебераем и юзаем - отсюда!</a></h3>
 <hr>
