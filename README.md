@@ -12,6 +12,7 @@ Labs Network <br>
 <br>Образ обновляется по мере добавления новых сетевых устройств</p>
 <br>
 <p>Ссылка для скачивания образа <a href="https://drive.google.com/file/d/1ENE2J-s7kylzUD99wBns05J7LMyXtt49/view?usp=sharing">вот ТУТ!</a></p>
+<hr>
 
 <h2>Обновился образ!</h2>
 <p>Теперь образ содержит железяки</p>
