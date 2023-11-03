@@ -16,6 +16,8 @@ Labs Network <br>
 <h2>Обновился образ!</h2>
 <p>Теперь образ содержит железяки</p>
 <ul>
+  <li>Cisco</li>
+  <li>Cisco_ASA</li>
   <li>MikroTik!</li>
   <li>Aruba!</li>
 </ul>
